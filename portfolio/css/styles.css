@@ -83,6 +83,7 @@ b.max-bold{ font-weight: 700; }
 --------------------------------- */
 
 .section{ padding: 100px 0 50px; }
+.sectionStart{ padding: 50px 0 50px;}
 
 .justify {text-align: justify;}
 .center {text-align: center;}
