@@ -85,6 +85,7 @@ b.max-bold{ font-weight: 700; }
 .section{ padding: 100px 0 50px; }
 
 .justify {text-align: justify;}
+.center {text-align: center;}
 
 .section .heading{ margin-bottom: 60px; }
 
